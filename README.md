@@ -36,3 +36,6 @@ The algorithm works pretty well for majority of the cases and was successfully a
 ![Highway Driving with Traffic](Readme_images/highway2.gif)
 
 Please first run the path_planning file and then the simulator environment. The program might bug out otherwise.
+
+## References
+This project is submitted as partial fulfillment of the Udacity's Self-Driving Car Engineer Nanodegree program. The helper code is available [here](https://github.com/udacity/CarND-Path-Planning-Project).
